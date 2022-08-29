@@ -14,7 +14,7 @@
 }
 
 img{
-    width: 100%;
+    width: 95%;
     /* margin-bottom:5rem ; */
 }
 .img1{
@@ -78,4 +78,8 @@ p{
 }
 .six{
     margin-bottom: 6rem;
+}
+.first span{
+    border: 1px solid red;
+    transform: rotate(180deg);
 }
